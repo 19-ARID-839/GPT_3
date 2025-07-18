@@ -1,23 +1,23 @@
 import React, { useState } from "react";
 import { RiMenu3Line, RiCloseLine } from "react-icons/ri";
-import logo from "../../logo.svg";
+import coloredLogo from "../../assets/logo/coloredlogo.png";
 import "./navbar.css";
 
 const Navbar = () => {
   const [toggleMenu, setToggleMenu] = useState(false);
-
+     // nav bar logo
   return (
     <div className="gpt3__navbar">
       <div className="gpt3__navbar-links">
         <div className="gpt3__navbar-links_logo">
-          <img src={logo} alt="" />
+          <img src={coloredLogo} alt="" />
         </div>
         <div className="gpt3__navbar-links_container">
           <p>
             <a href="#home">Home</a>
           </p>
           <p>
-            <a href="#wgpt3">What is GPT3?</a>
+            <a href="#wgpt3">ROX-AI</a>
           </p>
           <p>
             <a href="#possibility">Open AI</a>

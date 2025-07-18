@@ -8,14 +8,14 @@ const Possibility = () => (
       <img src={possibilityImage} alt="possibility" />
     </div>
     <div className="gpt3__possibility-content">
-      <h4>Request Early Access to Get Started</h4>
+      <h4>Enter Before Evolution Leaves You Behind</h4>
       <h1 className="gradient__text">
-        The possibilities are <br /> beyond your imagination
+        What Awaits Is Beyond Prediction — But Within Reach.
       </h1>
       <p>
-        Yet bed any for travelling assistance indulgence unpleasing. Not
-        thoughts all exercise blessing. Indulgence way everything joy alteration
-        boisterous the attachment. Party we years to order allow asked of.
+        ROX-AI is not a tool. It's an awakening. It listens, adapts, and acts —
+        before you know you need it. Early access isn’t just a chance to use it
+        — it’s your entry into the next phase of machine-powered evolution.
       </p>
       <h4>Request Early Access to Get Started</h4>
     </div>
